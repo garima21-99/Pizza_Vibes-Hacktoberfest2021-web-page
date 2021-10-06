@@ -60,7 +60,7 @@
     position: absolute;
     height: 100%;
     width:100%;
-    background: url('/images/BG4.jpg') no-repeat center center/cover;
+    background: url('./images/BG4.jpg') no-repeat center center/cover;
     z-index: -1;
     opacity:0.8;
 }
@@ -194,7 +194,7 @@
     align-items: center;
     justify-content:space-evenly;
     border-radius: 45px;
-    background: url('BG3.jpg') no-repeat center center/cover;
+    background: url('./images/BG3.jpg') no-repeat center center/cover;
 }
 .service-item{
     color:white;
