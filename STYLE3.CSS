@@ -1,0 +1,15 @@
+.btn1:hover
+{
+    color: white;
+    background-color: red;
+}
+.fooditem:hover
+      {
+        transform: translateX(18px);
+        box-shadow: 12px 10px 7px black;
+      }
+.btn:hover
+{
+    background-color: white;
+    color:#a20606;
+}
